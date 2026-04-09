@@ -15,8 +15,8 @@ I am a Full-Stack Developer based in New Zealand, transitioning from a backgroun
 
 ## Technical Toolkit
 - **Frontend:** React (Functional Components), TypeScript, JavaScript (ES6+), HTML5, CSS3, Vite
-- **Backend:** Node.js, Express, RESTful APIs
+- **Backend:** Node.js, Express.js, RESTful APIs
 - **Languages:** JavaScript, TypeScript
 - **Tools:** Git, GitHub, Postman, Figma, MongoDB
   
-**Connect with me:** [www.linkedin.com/in/hunter-coles-b102263bb]
+**Connect with me:** [Hunter Coles](https://www.linkedin.com/in/hunter-coles-b102263bb)
