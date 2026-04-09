@@ -19,4 +19,4 @@ I am a Full-Stack Developer based in New Zealand, transitioning from a backgroun
 - **Languages:** JavaScript, TypeScript
 - **Tools:** Git, GitHub, Postman, Figma, MongoDB
   
-**Connect with me:** [Hunter Coles](https://www.linkedin.com/in/hunter-coles-b102263bb)
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/hunter-coles-b102263bb)
