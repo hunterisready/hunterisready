@@ -1,5 +1,5 @@
 # Hi, I'm Hunter 👋
-### Full-Stack Developer
+## Full-Stack Developer
 
 I am a Full-Stack Developer based in New Zealand, transitioning from a background in civil construction to the digital world!
 
