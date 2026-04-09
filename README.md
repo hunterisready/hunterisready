@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Hunter 👋
+### Full-Stack Developer
 
-<!--
-**hunterisready/hunterisready** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full-Stack Developer based in New Zealand, transitioning from a background in civil construction to the digital world!
 
-Here are some ideas to get you started:
+**Tech Stack:** React, TypeScript, Node.js, Express, MongoDB, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ Technical Toolkit
+- **Frontend:** React (Functional Components), TypeScript, JavaScript (ES6+), HTML5, CSS3, Vite
+- **Backend:** Node.js, Express, RESTful APIs
+- **Languages:** JavaScript, TypeScript
+- **Tools:** Git, GitHub, Postman, Figma, MongoDB
+  
+**Connect with me:** [www.linkedin.com/in/hunter-coles-b102263bb]
