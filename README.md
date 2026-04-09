@@ -13,7 +13,7 @@ I am a Full-Stack Developer based in New Zealand, transitioning from a backgroun
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-### 🛠️ Technical Toolkit
+## Technical Toolkit
 - **Frontend:** React (Functional Components), TypeScript, JavaScript (ES6+), HTML5, CSS3, Vite
 - **Backend:** Node.js, Express, RESTful APIs
 - **Languages:** JavaScript, TypeScript
